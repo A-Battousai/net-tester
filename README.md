@@ -11,3 +11,10 @@ Advanced Network Protocol &amp; Quality Tester for Tunneling
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/A-battousai/net-tester/main/net-tester.sh)
+
+
+
+
+
+## Contributors
+Special thanks to [@RivenBytes](https://github.com/RivenBytes) for improving IP sanitization and UI clarity.
