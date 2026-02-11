@@ -8,4 +8,4 @@ Advanced Network Protocol &amp; Quality Tester for Tunneling
 برای اجرا روی هر دو سرور ایران و خارج، دستور زیر را وارد کنید:
 
 ```bash
-curl -L https://raw.githubusercontent.com/A-battousai/net-tester/main/net-tester.sh | bash
+bash <(curl -Ls https://raw.githubusercontent.com/A-battousai/net-tester/main/net-tester.sh)
