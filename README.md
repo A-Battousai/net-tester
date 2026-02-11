@@ -14,7 +14,7 @@ Special thanks to [@RivenBytes](https://github.com/RivenBytes) for improving IP 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/A-battousai/net-tester/main/net-tester.sh)
 ```
-(تست یک طرفه هم میشه، مثلا فقط روی خارج دستور زیر رو بزنید و گزینه 1 رو بزنید و بعد ip ایران و بزنید، ولی مطمعن بشید که پورت های مورد نیاز مثل 9000, 5201 داخل ufw خارج هم باز باشه..)
+(از سمت سرور دوم هم خواستید تست بیگرید، (مثلا میگیم خارج المان) دو طرف دستور رو بزنید و توی خارج گزینه 1 رو بزنید و بعد ip ایران و بزنید،..)
 
 *
 *
